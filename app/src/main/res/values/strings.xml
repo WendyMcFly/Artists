@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Artists</string>
+    <string name="error_message">Something went wrong</string>
+
+    <plurals name="details_albums">
+        <item quantity="zero">No albums</item>
+        <item quantity="one">%1$d album</item>
+        <item quantity="two">%1$d albums</item>
+        <item quantity="few">%1$d albums</item>
+        <item quantity="many">%1$d albums</item>
+        <item quantity="other">%1$d albums</item>
+    </plurals>
+    <plurals name="details_songs">
+        <item quantity="zero">No songs</item>
+        <item quantity="one">%1$d song</item>
+        <item quantity="two">%1$d songs</item>
+        <item quantity="few">%1$d songs</item>
+        <item quantity="many">%1$d songs</item>
+        <item quantity="other">%1$d songs</item>
+    </plurals>
+</resources>
